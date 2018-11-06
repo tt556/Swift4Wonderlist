@@ -12,6 +12,22 @@
 		FFE720A7217753080008227E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FFE720A5217753080008227E /* Main.storyboard */; };
 		FFE720A92177530C0008227E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FFE720A82177530C0008227E /* Assets.xcassets */; };
 		FFE720AC2177530C0008227E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FFE720AA2177530C0008227E /* LaunchScreen.storyboard */; };
+		FFE720C1217758950008227E /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FFE720B3217758940008227E /* 6.jpg */; };
+		FFE720C2217758950008227E /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FFE720B4217758940008227E /* 2.jpg */; };
+		FFE720C3217758950008227E /* backImage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FFE720B5217758940008227E /* backImage.jpg */; };
+		FFE720C4217758950008227E /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FFE720B6217758940008227E /* 4.jpg */; };
+		FFE720C5217758950008227E /* 0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FFE720B7217758940008227E /* 0.jpg */; };
+		FFE720C6217758950008227E /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FFE720B8217758940008227E /* 1.jpg */; };
+		FFE720C7217758950008227E /* 9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FFE720B9217758940008227E /* 9.jpg */; };
+		FFE720C8217758950008227E /* toPreView.png in Resources */ = {isa = PBXBuildFile; fileRef = FFE720BA217758940008227E /* toPreView.png */; };
+		FFE720C9217758950008227E /* save.png in Resources */ = {isa = PBXBuildFile; fileRef = FFE720BB217758950008227E /* save.png */; };
+		FFE720CA217758950008227E /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FFE720BC217758950008227E /* 3.jpg */; };
+		FFE720CB217758950008227E /* 8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FFE720BD217758950008227E /* 8.jpg */; };
+		FFE720CC217758950008227E /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FFE720BE217758950008227E /* 5.jpg */; };
+		FFE720CD217758950008227E /* mail.png in Resources */ = {isa = PBXBuildFile; fileRef = FFE720BF217758950008227E /* mail.png */; };
+		FFE720CE217758950008227E /* 7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FFE720C0217758950008227E /* 7.jpg */; };
+		FFE720D0217759FB0008227E /* NextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFE720CF217759FB0008227E /* NextViewController.swift */; };
+		FFE720D221775A140008227E /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFE720D121775A140008227E /* SettingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +38,22 @@
 		FFE720A82177530C0008227E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FFE720AB2177530C0008227E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FFE720AD2177530C0008227E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FFE720B3217758940008227E /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpg; sourceTree = "<group>"; };
+		FFE720B4217758940008227E /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		FFE720B5217758940008227E /* backImage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = backImage.jpg; sourceTree = "<group>"; };
+		FFE720B6217758940008227E /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
+		FFE720B7217758940008227E /* 0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 0.jpg; sourceTree = "<group>"; };
+		FFE720B8217758940008227E /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		FFE720B9217758940008227E /* 9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9.jpg; sourceTree = "<group>"; };
+		FFE720BA217758940008227E /* toPreView.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = toPreView.png; sourceTree = "<group>"; };
+		FFE720BB217758950008227E /* save.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = save.png; sourceTree = "<group>"; };
+		FFE720BC217758950008227E /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		FFE720BD217758950008227E /* 8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 8.jpg; sourceTree = "<group>"; };
+		FFE720BE217758950008227E /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
+		FFE720BF217758950008227E /* mail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mail.png; sourceTree = "<group>"; };
+		FFE720C0217758950008227E /* 7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7.jpg; sourceTree = "<group>"; };
+		FFE720CF217759FB0008227E /* NextViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextViewController.swift; sourceTree = "<group>"; };
+		FFE720D121775A140008227E /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,8 +86,24 @@
 		FFE720A0217753080008227E /* Swift4Wonderlist */ = {
 			isa = PBXGroup;
 			children = (
+				FFE720B7217758940008227E /* 0.jpg */,
+				FFE720B8217758940008227E /* 1.jpg */,
+				FFE720B4217758940008227E /* 2.jpg */,
+				FFE720BC217758950008227E /* 3.jpg */,
+				FFE720B6217758940008227E /* 4.jpg */,
+				FFE720BE217758950008227E /* 5.jpg */,
+				FFE720B3217758940008227E /* 6.jpg */,
+				FFE720C0217758950008227E /* 7.jpg */,
+				FFE720BD217758950008227E /* 8.jpg */,
+				FFE720B9217758940008227E /* 9.jpg */,
+				FFE720B5217758940008227E /* backImage.jpg */,
+				FFE720BF217758950008227E /* mail.png */,
+				FFE720BB217758950008227E /* save.png */,
+				FFE720BA217758940008227E /* toPreView.png */,
 				FFE720A1217753080008227E /* AppDelegate.swift */,
 				FFE720A3217753080008227E /* ViewController.swift */,
+				FFE720CF217759FB0008227E /* NextViewController.swift */,
+				FFE720D121775A140008227E /* SettingViewController.swift */,
 				FFE720A5217753080008227E /* Main.storyboard */,
 				FFE720A82177530C0008227E /* Assets.xcassets */,
 				FFE720AA2177530C0008227E /* LaunchScreen.storyboard */,
@@ -122,8 +170,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FFE720C3217758950008227E /* backImage.jpg in Resources */,
+				FFE720C4217758950008227E /* 4.jpg in Resources */,
+				FFE720C9217758950008227E /* save.png in Resources */,
 				FFE720AC2177530C0008227E /* LaunchScreen.storyboard in Resources */,
+				FFE720CA217758950008227E /* 3.jpg in Resources */,
+				FFE720C7217758950008227E /* 9.jpg in Resources */,
+				FFE720CC217758950008227E /* 5.jpg in Resources */,
+				FFE720CB217758950008227E /* 8.jpg in Resources */,
 				FFE720A92177530C0008227E /* Assets.xcassets in Resources */,
+				FFE720C8217758950008227E /* toPreView.png in Resources */,
+				FFE720CE217758950008227E /* 7.jpg in Resources */,
+				FFE720C5217758950008227E /* 0.jpg in Resources */,
+				FFE720C2217758950008227E /* 2.jpg in Resources */,
+				FFE720C6217758950008227E /* 1.jpg in Resources */,
+				FFE720C1217758950008227E /* 6.jpg in Resources */,
+				FFE720CD217758950008227E /* mail.png in Resources */,
 				FFE720A7217753080008227E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -136,7 +198,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				FFE720A4217753080008227E /* ViewController.swift in Sources */,
+				FFE720D0217759FB0008227E /* NextViewController.swift in Sources */,
 				FFE720A2217753080008227E /* AppDelegate.swift in Sources */,
+				FFE720D221775A140008227E /* SettingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
